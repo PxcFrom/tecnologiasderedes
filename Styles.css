@@ -1,0 +1,22 @@
+.Card {
+	background: #808080;
+	width: 1200px;
+	margin: auto;
+	color: white;	
+}
+
+.img-1 {
+	max-width: 650px;
+}
+
+.img1 {
+	text-align: center;
+}
+
+p{
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+}
